@@ -1,8 +1,7 @@
-/*
-Remove all falsey values from an array.
+// Remove all falsey values from an array.
 
-Falsey values in javascript are false, null, 0, "", undefined, and NaN.
-*/
+// Falsey values in javascript are false, null, 0, "", undefined, and NaN.
+
 function sortOut(item) {
   if (item) {
     return item;
