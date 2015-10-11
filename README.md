@@ -1,2 +1,2 @@
-# fCC_Work_Repo
+# fCCalgorithms
 Contains all my work from freeCodeCamp
