@@ -1,2 +1,2 @@
 # fCCalgorithms
-Contains all my work from freeCodeCamp
+Contains all of my bonfire algorithm solutions from freeCodeCamp
